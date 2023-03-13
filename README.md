@@ -7,4 +7,4 @@ Bath Room light and Fan controlled by PIR Sensor and Amazon Alexa
 3. PIR Sensor Module - HC-SR501
 
 ## Circuit Diagram
-<img src="" width="80%">
+<img src="https://github.com/dijin123/IoT-PIRSensorBathRoom/blob/main/PIR%20Sensor%20BathRoom_bb.png" width="80%">
