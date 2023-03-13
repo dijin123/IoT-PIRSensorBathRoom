@@ -1,5 +1,5 @@
 # IoT-PIRSensorBathRoom - Home Automation
-Bath Room light and Fan controlled by PIR Sensor and Amazon Alexa 
+Bath Room light and Fan are controlled by PIR Sensor if the person is inside. We can also control the switches manually. We can also control the Light and Fan with Amazon Alexa.
 
 ## Componet List :
 1. NODEMCU ESP8266 with Wifi Dev Board
